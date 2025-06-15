@@ -8,7 +8,7 @@ loadMore.onclick = ()=>{
     }
     currentItems += 3;
 
-    if (currentItems == 21) {
+    if (currentItems == 22) {
         loadMore.style.display = "none";
     }
 }
